@@ -12,10 +12,10 @@
     <ul>
       <li>🔸 I’m continuously working on improving my skillset.</li>
       <!-- <li>🔹 I’m currently learning <strong>Flutter</strong></li> -->
-      <li>🔹 I’m currently learning <strong>Data Structures and Algorithms</strong></li>
-      <li>🔸 I’m looking to collaborate on <strong>OpenSource Projects</strong> & <strong>Frontend Projects</strong></li>
+      <li>🔹 I’m currently learning <strong>Data Structures and Algorithms.</strong></li>
+      <li>🔸 I’m looking to collaborate on <strong>OpenSource Projects</strong> & <strong>Frontend Projects.</strong></li>
       <li>🔹 If you have any project idea or want to work together then feel free to contact me!</li>
-      <li>🔸 Ask me about <strong>Java, JavaScript, React, HTML, CSS, Git & GitHub</strong></li>
+      <li>🔸 Ask me about <strong>Java, JavaScript, React, HTML, CSS, Git & GitHub.</strong></li>
       <br><br>
     </ul>
   </div>
