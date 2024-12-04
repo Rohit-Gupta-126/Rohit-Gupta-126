@@ -8,14 +8,14 @@
   <div>
     <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
     <!-- Image Section -->
-    <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" alt="Laptop GIF" width="26%" align="right">
+    <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" alt="Laptop GIF" width="27%" align="right">
     <ul>
       <li>🔸 I’m continuously working on improving my skillset.</li>
       <!-- <li>🔹 I’m currently learning <strong>Flutter</strong></li> -->
       <li>🔹 I’m currently learning <strong>Data Structures and Algorithms.</strong></li>
       <li>🔸 I’m looking to collaborate on <strong>OpenSource Projects</strong> & <strong>Frontend Projects.</strong></li>
       <li>🔹 If you have any project idea or want to work together then feel free to contact me!</li>
-      <li>🔸 Ask me about <strong>Java, JavaScript, React, HTML, CSS, Git & GitHub.</strong></li>
+      <li>🔸 Ask me about <strong>Python, Java, JavaScript, React, HTML, CSS, Git & GitHub.</strong></li>
       <br><br>
     </ul>
   </div>
