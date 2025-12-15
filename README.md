@@ -1,5 +1,5 @@
 <h1 align="center">Namaste🙏, I'm Rohit Gupta</h1>
-<h3 align="center">Proficient in Java, JavaScript & Python | Frontend Developer | Eager to contribute to impactful projects and drive positive change.</h3>
+<h3 align="center">Proficient in JavaScript & Python | Frontend Developer | Eager to contribute to impactful projects and drive positive change.</h3>
 <br>
 
 <div>
@@ -15,7 +15,7 @@
       <li>🔹 I’m currently learning <strong>Data Structures and Algorithms.</strong></li>
       <li>🔸 I’m looking to collaborate on <strong>OpenSource Projects</strong> & <strong>Frontend Projects.</strong></li>
       <li>🔹 If you have any project idea or want to work together then feel free to contact me!</li>
-      <li>🔸 Ask me about <strong>Java, JavaScript, React, Next, Python, Git & GitHub.</strong></li>
+      <li>🔸 Ask me about <strong>Python, JavaScript, React, Next, Git & GitHub.</strong></li>
       <br><br>
     </ul>
   </div>
