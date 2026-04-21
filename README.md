@@ -13,7 +13,7 @@
       <li>🔹 I’m actively researching and learning <strong>Post-Quantum Cryptography.</strong></li>
       <li>🔸 I’m looking to collaborate on <strong>Hardware Security prototyping</strong> & <strong>Scalable Projects.</strong></li>
       <li>🔹 If you have an idea or want to build something impactful, feel free to contact me!</li>
-      <li>🔸 Ask me about <strong>Next.js, Python, FastAPI, C++, and ESP32.</strong></li>
+      <li>🔸 Ask me about <strong>Next.js, Python, C++, and ESP32.</strong></li>
     </ul>
   </div>
 
