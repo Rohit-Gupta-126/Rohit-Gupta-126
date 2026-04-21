@@ -1,6 +1,5 @@
 <h1 align="center">Namaste🙏, I'm Rohit Gupta</h1>
-<h3 align="center">Proficient in JavaScript & Python | Frontend Developer | Eager to contribute to impactful projects and drive positive change.</h3>
-<br>
+<h3 align="center">Hardware Security & AI Researcher | Building Scalable AI & TRNG Solutions | Next.js & Python</h3><br>
 
 <div>
   
