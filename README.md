@@ -10,13 +10,11 @@
     <!-- Image Section -->
     <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" alt="Laptop GIF" width="27%" align="right">
     <ul>
-      <li>🔸 I’m continuously working on improving my skillset.</li>
-      <!-- <li>🔹 I’m currently learning <strong>Flutter</strong></li> -->
-      <li>🔹 I’m currently learning <strong>Data Structures and Algorithms.</strong></li>
-      <li>🔸 I’m looking to collaborate on <strong>OpenSource Projects</strong> & <strong>Frontend Projects.</strong></li>
-      <li>🔹 If you have any project idea or want to work together then feel free to contact me!</li>
-      <li>🔸 Ask me about <strong>Python, JavaScript, React, Next, Git & GitHub.</strong></li>
-      <br><br>
+      <li>🔸 I’m currently building an <strong>Entropy-as-a-Service</strong> startup centered around hardware TRNG.</li>
+      <li>🔹 I’m actively researching and learning <strong>Post-Quantum Cryptography.</strong></li>
+      <li>🔸 I’m looking to collaborate on <strong>Hardware Security prototyping</strong> & <strong>Scalable Full-Stack Projects.</strong></li>
+      <li>🔹 If you have an innovative idea or want to build something impactful, feel free to contact me!</li>
+      <li>🔸 Ask me about <strong>Next.js, Python, FastAPI, C++, and ESP32.</strong></li>
     </ul>
   </div>
 
