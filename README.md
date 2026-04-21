@@ -10,7 +10,7 @@
     <!-- Image Section -->
     <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" alt="Laptop GIF" width="27%" align="right">
     <ul>
-      <li>🔸 I’m currently building an <strong>Entropy-as-a-Service</strong> startup centered around hardware TRNG.</li>
+      <li>🔸 I’m currently building an <strong>Entropy-as-a-Service</strong> startup centered around hardware <strong>TRNG</strong>.</li>
       <li>🔹 I’m actively researching and learning <strong>Post-Quantum Cryptography.</strong></li>
       <li>🔸 I’m looking to collaborate on <strong>Hardware Security prototyping</strong> & <strong>Scalable Projects.</strong></li>
       <li>🔹 If you have an idea or want to build something impactful, feel free to contact me!</li>
