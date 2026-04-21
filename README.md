@@ -7,7 +7,7 @@
   <div>
     <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me:</h2>
     <!-- Image Section -->
-    <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" alt="Laptop GIF" width="27%" align="right">
+    <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif" alt="Laptop GIF" width="22%" align="right">
     <ul>
       <li>🔸 I’m currently building an <strong>Entropy-as-a-Service</strong> startup centered around hardware <strong>TRNG</strong>.</li>
       <li>🔹 I’m actively researching and learning <strong>Post-Quantum Cryptography.</strong></li>
