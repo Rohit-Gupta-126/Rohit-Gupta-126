@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded_Firmware-0055FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hardware_Security-6E00FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real--Time_Signals-00A3FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_ML_Systems-00A3FF?style=for-the-badge" />
 </p>
 
 <p align="center">
