@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"><img src="./assets/header-light.svg" width="100%" alt="Rohit Gupta. PQC, Hardware Security, Embedded Systems. I work on keeping data safe, from post-quantum cryptography all the way down to the circuit board."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg"><img src="./header-light.svg" width="100%" alt="Rohit Gupta. PQC, Hardware Security, Embedded Systems. I work on keeping data safe, from post-quantum cryptography all the way down to the circuit board."></picture>
 
 <a href="https://linkedin.com/in/rohit-gupta126"><img src="https://img.shields.io/badge/LINKEDIN-0284C7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:rjgupta2116@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0284C7?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
@@ -9,38 +9,38 @@
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-research-dark.svg"><img src="./assets/h-research-light.svg" width="100%" alt="01 Research: two problems I care about"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/research-dark.svg"><img src="./assets/research-light.svg" width="100%" alt="Research 01: post-quantum cryptography. Research 02: security on photonic chips."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./h-research-dark.svg"><img src="./h-research-light.svg" width="100%" alt="01 Research: two problems I care about"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./research-dark.svg"><img src="./research-light.svg" width="100%" alt="Research 01: post-quantum cryptography. Research 02: security on photonic chips."></picture>
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-projects-dark.svg"><img src="./assets/h-projects-light.svg" width="100%" alt="02 Projects: things I've built"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./h-projects-dark.svg"><img src="./h-projects-light.svg" width="100%" alt="02 Projects: things I've built"></picture>
 
-<a href="https://arguslattice.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-argus-dark.svg"><img src="./assets/p-argus-light.svg" width="49%" alt="ARGUS LATTICE: finds encryption quantum computers could break. Private repo; opens the live demo."></picture></a>
-<a href="https://github.com/Rohit-Gupta-126/zek_eaas"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-zek-dark.svg"><img src="./assets/p-zek-light.svg" width="49%" alt="Z.E.K: true random numbers from Zener diode noise. Opens the repo."></picture></a>
-<a href="https://github.com/Rohit-Gupta-126/PHAROS"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-pharos-dark.svg"><img src="./assets/p-pharos-light.svg" width="49%" alt="PHAROS: real-time anomaly detection on collision and accelerator data. Opens the repo."></picture></a>
-<a href="https://github.com/Rohit-Gupta-126/ARES_Cognitive_RF"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/p-ares-dark.svg"><img src="./assets/p-ares-light.svg" width="49%" alt="A.R.E.S: AI-predicted jamming with hardware-random channel hopping. Opens the repo."></picture></a>
+<a href="https://arguslattice.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="./p-argus-dark.svg"><img src="./p-argus-light.svg" width="49%" alt="ARGUS LATTICE: finds encryption quantum computers could break. Private repo; opens the live demo."></picture></a>
+<a href="https://github.com/Rohit-Gupta-126/zek_eaas"><picture><source media="(prefers-color-scheme: dark)" srcset="./p-zek-dark.svg"><img src="./p-zek-light.svg" width="49%" alt="Z.E.K: true random numbers from Zener diode noise. Opens the repo."></picture></a>
+<a href="https://github.com/Rohit-Gupta-126/PHAROS"><picture><source media="(prefers-color-scheme: dark)" srcset="./p-pharos-dark.svg"><img src="./p-pharos-light.svg" width="49%" alt="PHAROS: real-time anomaly detection on collision and accelerator data. Opens the repo."></picture></a>
+<a href="https://github.com/Rohit-Gupta-126/ARES_Cognitive_RF"><picture><source media="(prefers-color-scheme: dark)" srcset="./p-ares-dark.svg"><img src="./p-ares-light.svg" width="49%" alt="A.R.E.S: AI-predicted jamming with hardware-random channel hopping. Opens the repo."></picture></a>
 
 <sub>Click a card to open the project. ARGUS LATTICE is a private repo, so it opens the live demo.</sub>
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-exp-dark.svg"><img src="./assets/h-exp-light.svg" width="100%" alt="03 Experience: where I've worked"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg"><img src="./assets/experience-light.svg" width="100%" alt="Research Project Intern at Samsung R&D Institute, Dec 2025 to Jul 2026. Frontend Developer Intern at Coders Boutique, Mar to Apr 2025."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./h-exp-dark.svg"><img src="./h-exp-light.svg" width="100%" alt="03 Experience: where I've worked"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./experience-dark.svg"><img src="./experience-light.svg" width="100%" alt="Research Project Intern at Samsung R&D Institute, Dec 2025 to Jul 2026. Frontend Developer Intern at Coders Boutique, Mar to Apr 2025."></picture>
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-skills-dark.svg"><img src="./assets/h-skills-light.svg" width="100%" alt="04 Skills: what I work with"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg"><img src="./assets/skills-light.svg" width="100%" alt="PQC and photonics, security and cryptography, embedded and hardware, AI and data, languages and tools"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./h-skills-dark.svg"><img src="./h-skills-light.svg" width="100%" alt="04 Skills: what I work with"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./skills-dark.svg"><img src="./skills-light.svg" width="100%" alt="PQC and photonics, security and cryptography, embedded and hardware, AI and data, languages and tools"></picture>
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-outside-dark.svg"><img src="./assets/h-outside-light.svg" width="100%" alt="05 Outside class: beyond the syllabus"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/outside-dark.svg"><img src="./assets/outside-light.svg" width="100%" alt="Campus Lead at Coding Ninjas 10X, mentored 1,000+ students. Led two Smart India Hackathon teams. Top 5 of 400+ teams at SOA Ideathon '26."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./h-outside-dark.svg"><img src="./h-outside-light.svg" width="100%" alt="05 Outside class: beyond the syllabus"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./outside-dark.svg"><img src="./outside-light.svg" width="100%" alt="Campus Lead at Coding Ninjas 10X, mentored 1,000+ students. Led two Smart India Hackathon teams. Top 5 of 400+ teams at SOA Ideathon '26."></picture>
 
 <br><br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/h-stats-dark.svg"><img src="./assets/h-stats-light.svg" width="100%" alt="06 Activity: on GitHub"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./h-stats-dark.svg"><img src="./h-stats-light.svg" width="100%" alt="06 Activity: on GitHub"></picture>
 
 <sub><b>COMMIT CALENDAR</b></sub><br>
 <img src="https://ghchart.rshah.org/0284C7/Rohit-Gupta-126" width="98.5%" alt="Commit calendar">
@@ -59,6 +59,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Gupta-126&bg_color=05070B&color=6B7888&line=38BDF8&point=2DD4BF&area=true&area_color=38BDF8&hide_border=false&border_color=18202D&radius=3&title_color=38BDF8"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Gupta-126&bg_color=F7F9FC&color=6B7888&line=0284C7&point=0D9488&area=true&area_color=0284C7&hide_border=false&border_color=D5DCE5&radius=3&title_color=0284C7" width="98.5%" alt="Contribution graph"></picture>
 
 <br><br>
-<a href="mailto:rjgupta2116@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><img src="./assets/footer-light.svg" width="100%" alt="Thanks for stopping by. I am looking for research internships in PQC, hardware security and embedded systems. Email rjgupta2116@gmail.com"></picture></a>
+<a href="mailto:rjgupta2116@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./footer-dark.svg"><img src="./footer-light.svg" width="100%" alt="Thanks for stopping by. I am looking for research internships in PQC, hardware security and embedded systems. Email rjgupta2116@gmail.com"></picture></a>
 
 </div>
